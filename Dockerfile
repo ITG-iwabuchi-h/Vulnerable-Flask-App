@@ -1,4 +1,4 @@
-FROM python:2.7.14-jessie
+FROM python:3.12.0rc1-slim-bookworm
 
 WORKDIR /apps/
 
